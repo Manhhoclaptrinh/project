@@ -1,0 +1,17 @@
+[
+    {
+        "borrow_id": "PM1768132352",
+        "book_code": "01",
+        "borrow_date": "2026-01-11",
+        "due_date": "2026-01-12",
+        "status": "Đang mượn"
+    },
+    {
+        "borrow_id": "PM1768132367",
+        "book_code": "01",
+        "borrow_date": "2026-01-11",
+        "due_date": "2026-01-12",
+        "status": "Đã trả",
+        "return_date": "2026-01-28"
+    }
+]
